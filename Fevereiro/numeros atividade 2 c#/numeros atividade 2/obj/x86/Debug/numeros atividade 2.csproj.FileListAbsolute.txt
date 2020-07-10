@@ -1,0 +1,7 @@
+F:\numeros atividade 2\numeros atividade 2\bin\Debug\numeros atividade 2.exe
+F:\numeros atividade 2\numeros atividade 2\bin\Debug\numeros atividade 2.pdb
+F:\numeros atividade 2\numeros atividade 2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+F:\numeros atividade 2\numeros atividade 2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\numeros atividade 2\numeros atividade 2\obj\x86\Debug\numeros atividade 2.csproj.GenerateResource.Cache
+F:\numeros atividade 2\numeros atividade 2\obj\x86\Debug\numeros atividade 2.exe
+F:\numeros atividade 2\numeros atividade 2\obj\x86\Debug\numeros atividade 2.pdb

@@ -1,0 +1,7 @@
+F:\exercicio 3\exercicio 3\bin\Debug\exercicio 3.exe
+F:\exercicio 3\exercicio 3\bin\Debug\exercicio 3.pdb
+F:\exercicio 3\exercicio 3\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+F:\exercicio 3\exercicio 3\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\exercicio 3\exercicio 3\obj\x86\Debug\exercicio 3.csproj.GenerateResource.Cache
+F:\exercicio 3\exercicio 3\obj\x86\Debug\exercicio 3.exe
+F:\exercicio 3\exercicio 3\obj\x86\Debug\exercicio 3.pdb
