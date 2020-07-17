@@ -28,6 +28,7 @@ main() {
 		}    
     }
 }
+
 /* 8.)    Faça um programa em "C" que permita o usuário digitar uma frase e uma letra qualquer 
 e verifique em que posição da frase esta letra se encontra, se existir, é claro. Se existir mais de uma, 
 exiba todas as posições.*/

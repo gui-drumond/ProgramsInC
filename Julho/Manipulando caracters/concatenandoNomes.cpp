@@ -14,17 +14,23 @@ st[0] = e
 #include <conio.h> //
 main()
 {
-	char st[50],st1[50],st2[100];
+	char palavra1[50],palavra2[50],frase[100];
 
 	printf("Digite seu nome ou frase ! \n");
-	gets(st);//gets   Lê um texto até que seja pressionado enter 
+	gets(palavra1);//gets   Lê um texto até que seja pressionado enter 
 	printf("Digite seu sobrenome ou frase ! \n"); 
-	gets(st1);
-	strcpy(st1,st);//pega as duas variaveis/vetores e retira o "/0" contido nas strings
-	strcat(st2,st1);//concatena os espacos em branco e junta as duas variaveis
-	strcat(st2," ");//
+	gets(palavra2);
+	
+	strcat(palavra1," ");//
+	
+	strcat(palavra1,palavra2);//pega as duas variaveis/vetores e retira o "/0" contido nas strings
+	
+	strcpy(frase, palavra1);//
+	
+	strupr(frase);//deixa maisculo
 	
 	
-	printf("  ! %c \n" , st2);
+	
+	puts(frase); //imprimir na tela
 }
 
